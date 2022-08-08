@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chocnutking93
+- 👋 Hi, I’m Charles.
 - 👀 I’m interested in learning how to code and become a programmer. 
 - 🌱 I’m currently learning through the odin project. 
 
